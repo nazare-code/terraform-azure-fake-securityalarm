@@ -25,4 +25,4 @@ $ terraform plan
 
 # Apply your configuration
 
-$ terrarm apply
+$ terraform apply
