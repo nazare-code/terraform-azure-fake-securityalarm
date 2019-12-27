@@ -1,4 +1,4 @@
-# Atention: Proof-of-Concept Terraform on Azure!
+# Atention: Terraform on Azure PoC!
 
 This is a fake alarm system repo ;)
 
