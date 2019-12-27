@@ -1,6 +1,6 @@
 # Atention: Terraform on Azure PoC!
 
-This is a fake alarm system repo ;)
+This is a fake alarm system repo ;) It is part of a Infraestructure as a Code tutorial.
 
 # Authentication on Azure
 
@@ -15,4 +15,14 @@ client_id = "<your-client_id>"
 client_secret = "<your-client_secret>"
 tenant_id = "<your-tenant_id>"
 
+# Initialize and download terraform plugins
 
+$ terraform init
+
+# Create an execution plan
+
+$ terraform plan
+
+# Apply your configuration
+
+$ terrarm apply
